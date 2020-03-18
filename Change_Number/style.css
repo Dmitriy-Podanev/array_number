@@ -1,0 +1,31 @@
+.input
+{
+    
+   
+    
+}
+.input form
+{
+    width: 100%;
+    height: 100ch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+.input input{
+    margin-right: 15px;
+    padding-left: 8px;
+    
+}
+input[type="text"]
+{
+    width: 250px;
+    font-size: larger;
+}
+input[type="button"]
+{
+    width: 80px;
+font-size: larger;
+}
